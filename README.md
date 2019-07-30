@@ -1,4 +1,4 @@
-# studentManageMent
+# studentManagement
 Coding example with custom MVC framework
 
 Code structure
